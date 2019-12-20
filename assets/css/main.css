@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #1e252d;
+		background-color: rgb(190, 99, 99);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -144,7 +144,8 @@ input, select, textarea {
 		}
 
 	body {
-		color: #212931;
+		color: #473939;
+		background-image: url("watch-desk.jpg");
 	}
 
 	body, input, select, textarea {
@@ -302,7 +303,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #212931;
+		color: #aab4be;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -314,7 +315,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(220, 220, 220, 0.25);
+		background: rgba(185, 152, 152, 0.25);
 		border-color: #eeeeee;
 	}
 
